@@ -1,1 +1,1 @@
-# Basic-android-apps
+# VVCE Application
